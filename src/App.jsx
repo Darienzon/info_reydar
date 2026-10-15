@@ -109,6 +109,7 @@ function App() {
       <footer className="footer">
         <span>SEGURIDAD DIGITAL PARA TODAS LAS PERSONAS</span>
         <span>CONFIDENCIALIDAD <b>·</b> INTEGRIDAD <b>·</b> DISPONIBILIDAD</span>
+        <span className="credit">DESARROLLADO POR <strong>DARIENS REYES</strong></span>
       </footer>
     </main>
   )

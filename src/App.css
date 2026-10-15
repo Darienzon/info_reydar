@@ -65,6 +65,8 @@ h1 em { color: #1f6c58; font-weight: 400; }
 .takeaway-spark { margin-left: auto; color: #f1c85b; font-size: 31px; }
 .footer { min-height: 66px; gap: 16px; color: #758078; font-size: 8px; font-weight: 800; letter-spacing: 1px; }
 .footer b { padding: 0 4px; color: #ef765c; }
+.footer .credit { color: #58665e; }
+.footer .credit strong { color: #1f6c58; }
 
 @media (max-width: 760px) {
   .infographic { padding: 0 25px; }
